@@ -27,6 +27,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * ROG ALLY
 * Legion GO
 
+## Plugins
+* Steam Deck
+   * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) : homebrew plugin launcher for the Steam Deck.
+   * [Controller Tools](https://github.com/alphamercury/ControllerTools) : Steam Deck game controller plugin for Decky Loader.
+   * [CSS Loader](https://github.com/suchmememanyskill/SDH-CssLoader) : Dynamically loads CSS files from storage and reloads alongside Steam UI.
+   * [Decky Recorder](https://github.com/marissa999/decky-recorder) : Screen recorder.
+* ROG Ally
+  * [Playnite](https://playnite.link/) : Armoury crate open source replacement that unified interface for all of your games.
+  * [Bloaty Nosy](https://github.com/builtbybel/BloatyNosy) : Universal Debloater and PC Manager for Windows on ROG Ally
 
 ## Websites
 
